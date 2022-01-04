@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @adejota
-- 👀 I love everything related to technology, especially when they solve old problems of the world. 
-- 🌱 I’m currently learning Power BI and Vue.js.
+- 👀 I love everything related to technology, especially when they solve old problems of the world.
+- 💻 These are some technologies I've been working with recently: HTML, CSS, JS, Node, Vue.
+- 🌱 I’m currently studying Python and Vue Test Utils.
 - 💞️ I’m looking to collaborate on a big project where I have to think outside the box to solve problems.
 - 📫 Here's my [portfolio](https://adejota-portfolio.herokuapp.com/), feel free to get in touch! 😉
