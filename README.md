@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @adejota
-- 👀 I love everything related to technology, especially when they solve old problems of the world.
-- 💻 These are some technologies I've been working with recently: HTML, CSS, JS, Node, Vue.
+- 👋 Hi, I’m @adejota. I'm a web developer!
+- 👀 I love everything related to technology.
+- 💻 These are some technologies I've been working with recently: Javascript, Vue.js, Tailwind.css, Node.js, Express.
 - 🌱 I’m currently studying unit tests with Jest and e2e tests with Cypress.
-- 💞️ I’m looking to collaborate on a big project where I have to think outside the box to solve problems.
-- 📫 Here's my [portfolio](https://adejota-portfolio.herokuapp.com/), feel free to get in touch! 😉
+- 📫 Here's my [portfolio](https://adejota-portfolio.netlify.app/), feel free to get in touch! 😉
