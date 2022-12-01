@@ -1,4 +1,5 @@
 👋 Hi, I’m @adejota. I'm a web developer!
+
 💻 These are some technologies I've been working with recently: Javascript, Vue.js, Tailwind.css, Node.js, Express.
 
 I'm working since 2016 and have been in the technology field since 2020. I have always worked close to the decision-making process and business logic.
